@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning with DungDx </h1>
+   <h1> Thankyou, Happy Learning with Cloud Team </h1>
 
   
 </form>

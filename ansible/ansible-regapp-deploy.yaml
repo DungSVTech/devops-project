@@ -1,0 +1,8 @@
+---
+- hosts: remotehost
+  tasks:
+  - name: Deploy deployment
+    command: kubectl apply -f /media/dxd/sda4/k8s-manifest/devops-project/regapp-deploy.yaml
+
+  - name: Deploy SVC
+    command: kubectl apply -f /media/dxd/sda4/k8s-manifest/devops-project/regapp-svc.yaml
